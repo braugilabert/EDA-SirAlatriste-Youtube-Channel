@@ -5,7 +5,7 @@ Limpieza de datos y posterior análisis exploratorio de mi canal de YouTube de S
 
 ⭐ Para saber cuales son las bases de datos, ir a la subcarpeta /data.
 
-⭐⭐ Para ir directo al código del proyecto: https://github.com/braugilabert/EDA-SirAlatriste-Youtube-Channel/blob/main/src/C%C3%B3digo%20EDA%20Braulio.ipynb
+⭐⭐ Código del proyecto: https://github.com/braugilabert/EDA-SirAlatriste-Youtube-Channel/blob/main/src/C%C3%B3digo%20EDA%20Braulio.ipynb
 
 He hecho limpieza de datos aparte de seleccionando entre los muchísimos datos de YouTube, sacando información de aquellos que eran más útiles; una vez he sacado los datos en Excel he eliminado de cada uno de estos las columnas que no daban juego.
 
