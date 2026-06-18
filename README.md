@@ -1,4 +1,4 @@
-# EDA-Braulio
+# EDA-SirAlatriste
 Análisis exploratorio de mi canal de YouTube de SirAlatriste, parcialmente ilustrado en https://sites.google.com/view/siralatriste/an%C3%A1lisis-de-datos 
 
 ⭐ Si quieres saber cuales son los datos en los que he basado el EDA, descargue los ficheros. 
