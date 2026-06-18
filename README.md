@@ -3,7 +3,7 @@ Análisis exploratorio de mi canal de YouTube de SirAlatriste, parcialmente ilus
 
 ⭐ Si quieres saber cuales son los datos en los que he basado el EDA, descargue los ficheros. 
 
-⭐ Para saber cuales son las bases de datos, ir a la carpeta /data.
+⭐ Para saber cuales son las bases de datos, ir a la subcarpeta /data.
 
 He unificado todos los notebooks en uno y he hecho que se llegue a los csv desde los notebooks para cargarlos.
 Para actualizar los datos solo yo, como propietario del canal, tengo el permiso. ¡Pero es cuestión de pedirme el excel!
